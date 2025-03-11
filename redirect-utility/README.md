@@ -7,7 +7,7 @@ In Webflow Optimize, redirect experiences are often used for full page redesigns
 ## How to use
 
 1. In the Webflow Optimize dashboard, navigate to Account Settings.
-2. Add the [redirect-utility.js](/redirect-utility.js) script (included in this repository) to your Global JavaScript.
+2. Add the [redirect-utility.js](/redirect-utility/redirect-utility.js) script (included in this repository) to your Global JavaScript.
    1. This utility preserves UTMs and other URL parameters during redirects.
 3. When creating a redirect experience, select **Redirect code editor (Advanced)** and use the following code, replacing the URL with your destination page:
 
