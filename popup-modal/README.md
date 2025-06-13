@@ -56,3 +56,9 @@ window.wf_optimize.utils.popupModal({
   },
   customClassName: 'custom-popup'
 });
+
+---
+
+## 📄 License
+
+This utility is open source and shared under the [MIT License](../LICENSE). You’re welcome to adapt and reuse it for your own Webflow Optimize projects.
