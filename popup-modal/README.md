@@ -56,6 +56,7 @@ window.wf_optimize.utils.popupModal({
   },
   customClassName: 'custom-popup'
 });
+```
 
 ---
 
