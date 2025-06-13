@@ -1,3 +1,6 @@
+// ⚠️ This utility is no longer necessary as Webflow Optimize now supports redirect UTMs natively.
+// Please use the built-in redirect feature in the platform instead.
+
 (() => {
   window.wfTools = window.wfTools || {};
 
