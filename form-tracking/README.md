@@ -21,7 +21,7 @@ By sending different events for each version, you can track performance separate
 
 ## 🔍 How it works
 
-This snippet uses the [Marketo Forms 2.0 JavaScript API](https://developers.marketo.com/javascript-api/forms/) to safely detect when a form has been submitted successfully. It avoids brittle DOM selectors and ensures your tracking only fires when Marketo confirms the form went through.
+This snippet uses the [Marketo Forms 2.0 JavaScript API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference) to safely detect when a form has been submitted successfully. It avoids brittle DOM selectors and ensures your tracking only fires when Marketo confirms the form went through.
 
 ---
 
